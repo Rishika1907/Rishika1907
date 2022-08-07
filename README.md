@@ -1,5 +1,5 @@
 ## Hi, I’m Rishika R Palan 👋
-</br><h3>✨A Proactive Learner🎇</h3>
+</br>✨A Proactive Learner🎇
 <br/>
 <h2>ABOUT ME</h2>
 <br/>⛳Currently learning the concepts realted to Data Engineering and building projects on it.
