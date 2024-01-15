@@ -2,8 +2,8 @@
 </br>✨A Proactive Learner🎇
 <br/>
 <h2>ABOUT ME</h2>
-<br/>⛳Interested in software development and data engineering.
-<br/>⛳Improving my problem solving skills day by day💹.
+<br/>⛳Interested in software development and machine learning.
+<br/>⛳Improving my problem-solving skills day by day💹.
 
 
 
